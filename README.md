@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on **[VEDA AI](https://veda-2-0.onrender.com/)**
-- 👨‍💻 Portfolio: **[prathamsrivastav.tech](https://vercel.com/pratham18sri-gmailcoms-projects/prathamportfolio/7uptB3HqERF2GdagyQ9jTLQzU87k)**
+- 👨‍💻 Portfolio: **[prathamsrivastav.tech](https://www.prathamsrivastav.tech/)**
 - 💬 Ask me about **React, GSAP**
 - 📫 Reach me at **Pratham18sri@gmail.com**
 - ⚡ Fun fact: *I think I’m funny… turns out my thought process is 😄*
