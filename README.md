@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=180&section=header&text=PRATHAM%20SRIVASTAV&fontSize=42&fontColor=00FF41&fontAlignY=38&animation=fadeIn&desc=%3E%20FRONTEND%20DEVELOPER%20%2F%2F%20INDIA&descAlignY=58&descSize=16&descColor=39FF14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=180&section=header&text=PRATHAM%20SRIVASTAV&fontSize=42&fontColor=00FF41&fontAlignY=38&animation=fadeIn&desc=%3E%20SOFTWARE%20DEVELOPER%20%2F%2F%20INDIA&descAlignY=58&descSize=16&descColor=39FF14" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&background=0D1117FF&width=650&lines=%3E+whoami;Pratham+Srivastav+%2F%2F+Frontend+Dev;%3E+cat+skills.txt;React+.+GSAP+.+JavaScript;%3E+status+--check;online+%F0%9F%9F%A2+building..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&background=0D1117FF&width=650&lines=%3E+whoami;Pratham+Srivastav+%2F%2F+Software+Developer;%3E+cat+skills.txt;React+.+GSAP+.+JavaScript;%3E+status+--check;online+%F0%9F%9F%A2+building..." alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=pratham18sri&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge&labelColor=0D1117" />
 
