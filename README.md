@@ -61,7 +61,17 @@ root@pratham:~$ _
 
 ## `<< TROPHIES >>`
 
-<img src="https://github-profile-trophy.vercel.app/?username=pratham18sri&theme=chartreuse-dark&row=1&column=6&no-frame=true&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=pratham18sri&theme=chartreuse-dark&row=2&column=4&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+## `<< ACTIVITY GRAPH >>`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratham18sri&theme=react-dark&bg_color=0D1117&color=39FF14&line=00FF41&point=39FF14&area=true&area_color=39FF14&hide_border=true" width="100%"/>
 
 </div>
 
